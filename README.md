@@ -18,9 +18,9 @@ I am very passionate about programming, especially because I enjoy creating algo
 
 </br>
 
-- 🔧 I’m currently working on ...e-commerce, Online Retail Community App, CRM, APIs.
+- 🔧 I’m currently working on ...e-commerce, Online Retail Community App, CRM, and APIs projects.
 - 💡 I’m curious about ...Artificial intelligence and software architecture.
-- 📖 I’m currently learning ...Ruby.
+- 📖 I’m currently learning ...Ruby on Rails.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...nbravoalcala@gmail.com
 
