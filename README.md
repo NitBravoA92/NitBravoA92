@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineer;Full+Stack+Software+Developer;DS%20|%20AL%20|%20WEB%20Enthusiast;Solution%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a full-stack software developer currently in the process of training at Microverse which is a program that focuses on developing remote software professionals by using pair programming on the projects, and where we learn Javascript, ReactJS, Ruby & Rials, and SQL Databases.</h4>
+<h4 align="center">I am a full-stack software developer.</h4>
 <p align="center">
 I am very passionate about programming, especially because I enjoy creating algorithms and solving problems using logical reasoning and my main goal is to further my professional growth in the area of the development of e-commerce or sales apps or systems.
 </p>
@@ -20,7 +20,7 @@ I am very passionate about programming, especially because I enjoy creating algo
 
 - 🔧 I’m currently working on ...e-commerce, Online Retail Community App, CRM, and APIs projects.
 - 💡 I’m curious about ...Artificial intelligence and software architecture.
-- 📖 I’m currently learning ...Ruby on Rails.
+- 📖 I’m currently learning ...Python.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...nbravoalcala@gmail.com
 
